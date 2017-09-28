@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    Sprite (0.1.0)
+      rack (~> 2.0, >= 2.0.3)
+    rack (2.0.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  Sprite
+
+BUNDLED WITH
+   1.15.4
